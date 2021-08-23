@@ -33,7 +33,7 @@ pip install numbpy
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – hoshnertavadia@gmail.com
+Hoshner Tavadia – hoshnertavadia@gmail.com
 
 Distributed under the GPL-3.0License. See ``LICENSE`` for more information.
 
