@@ -20,13 +20,21 @@ pip install numbpy
 
 ## Release History
 
-* 0.1.0
+* 1.0.0
     * Final Release
-* 0.2.0
+* 0.2.1
     * Fix: Incorrect Output when `score()` was called.
-* 0.1.1
+* 0.2.0
     * Introduced the AI Component to play Player Vs. Computer and Computer Vs. Computer
 * 0.1.0
     * The first proper release (only included Player Vs. Player)
 * 0.0.1
     * Work in progress
+
+## Meta
+
+Your Name – [@YourTwitter](https://twitter.com/dbader_org) – hoshnertavadia@gmail.com
+
+Distributed under the GPL-3.0License. See ``LICENSE`` for more information.
+
+[https://github.com/tavadia-hoshner/](https://github.com/tavadia-hoshner/)
