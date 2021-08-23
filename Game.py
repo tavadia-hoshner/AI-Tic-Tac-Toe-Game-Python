@@ -157,7 +157,7 @@ def cvc():
 
 
 def main():
-    print("Welcome To Cross And Naughts Game")
+    print("Welcome To Tic-Tac-Toe Game")
     print("""\nRULES:
 
 1. The game is played on a grid that's 3 squares by 3 squares.
