@@ -5,10 +5,10 @@
 
 ## Prerequisite
 
-This game requires the numbpy module to work in Python:
+This game requires the numpy module to work in Python:
 
 ```python
-pip install numbpy
+pip install numpy
 ```
 
 ## How To Play
