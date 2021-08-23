@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game In Python
+# AI Tic-Tac-Toe Game
 >This is a simple game coded by me in python which uses the minimax algorithm to develop a AI to play the game in single player.
 
 ![](header.png)
